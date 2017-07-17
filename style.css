@@ -3,11 +3,23 @@
 	margin: 0 auto;
 
 }
+.navbar {
+	position: fixed;
+	width: 100%;
+	border-radius: 0px;
+	z-index: 2;
+}
+.three-main-body img {
+	position: relative;
+	z-index: 1;
+}
+
 .about {
 	background-color: black;
 	color: white;
 	text-align: center;
-	padding: 20px;
+	padding: 100px 30px;
+	height: 600px;
 }
 .about img {
 	width: 30%;
@@ -20,6 +32,7 @@
 	text-align: center;
 	background-color: #FF1493;
 	padding: 20px;
+	height: 400px;
 }
 
 .contact img {

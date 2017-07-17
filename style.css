@@ -10,8 +10,10 @@
 	padding: 20px;
 }
 .about img {
-	width: 70%;
+	width: 30%;
 	margin: 0 auto;
+	border-radius: 50%;
+
 }
 
 .contact {
